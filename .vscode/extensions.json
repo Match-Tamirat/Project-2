@@ -1,5 +1,6 @@
 {
   "recommendations": [
+<<<<<<< HEAD
     "herrherrmann.angular-bootstrap",
     "yaruson.ascii-unicode-escape",
     "formulahendry.auto-close-tag",
@@ -35,5 +36,11 @@
     "gruntfuggly.todo-tree",
     "wayou.vscode-todo-highlight",
     "mccarter.start-git-bash"
+=======
+    "bierner.markdown-emoji",
+    "docsmsft.docs-markdown",
+    "mdickin.markdown-shortcuts",
+    "bpruitt-goddard.mermaid-markdown-syntax-highlighting"
+>>>>>>> Front-end
   ]
 }
